@@ -1,0 +1,30 @@
+/* ------------------Ints to Roman Numerals --------------------
+group member names: 
+
+Start date: 
+
+Goal: 
+*/
+
+
+#include <iostream>
+#include <string>
+
+int main()
+{
+    //local variable declarations
+    int userinput = 0; 
+    
+    //Takes user's input
+    std::cout<<"Enter a value between 1 and 100: "; 
+    std::cin >> userinput; 
+    
+    //Add your code here
+    
+    
+    //output the roman numeral value here
+    
+    std::cout<<"roman numeral format: "; 
+
+    return 0;
+}
